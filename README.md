@@ -1,4 +1,4 @@
-# 第十一章, 第十二章, 第十四章正在创作中，敬请期待！
+# 第十一章和第十二章正在创作中，敬请期待！
 
 [![Build Status](https://travis-ci.org/NoahDragon/BuildYourOwnLispCn.svg?branch=master)](https://travis-ci.org/NoahDragon/BuildYourOwnLispCn)
 
