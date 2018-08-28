@@ -3,7 +3,7 @@
     "language": "zh",
     "plugins": ["disqus",
 		"anchor-navigation-ex-toc",
-		"theme-gestalt",
+		"theme-gestalt@git+https://github.com/NoahDragon/gitbook-plugin-theme-gestalt.git",
 		"-theme-default",
 		"styles-sass-fix",
 		"analytics",
