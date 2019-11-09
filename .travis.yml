@@ -4,7 +4,7 @@ sudo: flase
 dist: trusty
 
 node_js:
-  - 10
+  - 8
 
 cache:
   - $HOME/.npm
